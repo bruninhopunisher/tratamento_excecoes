@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+#Tratamento de Erro
+
+Aplicando try and catch no tratamento de exceções de erros no código
