@@ -1,3 +1,3 @@
-#Tratamento de Erro
+# Tratamento de Erro
 
-Aplicando try and catch no tratamento de exceções de erros no código
+Aplicando TRY and CATCH no tratamento de exceções de erros no código
